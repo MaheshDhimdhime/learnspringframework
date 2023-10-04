@@ -1,5 +1,5 @@
 package codingpractice;
-
+//this is for git purpose
 public class Array {
 	public static void main(String[] args) {
 		int nums[][] = new int[3][4];
